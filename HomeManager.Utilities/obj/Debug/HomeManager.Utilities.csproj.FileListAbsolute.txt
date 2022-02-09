@@ -1,0 +1,6 @@
+C:\Source code\Personal Projects\HomeManager\Library\HomeManager.Utilities\HomeManager.Utilities\bin\Debug\HomeManager.Utilities.dll
+C:\Source code\Personal Projects\HomeManager\Library\HomeManager.Utilities\HomeManager.Utilities\bin\Debug\HomeManager.Utilities.pdb
+C:\Source code\Personal Projects\HomeManager\Library\HomeManager.Utilities\HomeManager.Utilities\obj\Debug\HomeManager.Utilities.csprojAssemblyReference.cache
+C:\Source code\Personal Projects\HomeManager\Library\HomeManager.Utilities\HomeManager.Utilities\obj\Debug\HomeManager.Utilities.csproj.CoreCompileInputs.cache
+C:\Source code\Personal Projects\HomeManager\Library\HomeManager.Utilities\HomeManager.Utilities\obj\Debug\HomeManager.Utilities.dll
+C:\Source code\Personal Projects\HomeManager\Library\HomeManager.Utilities\HomeManager.Utilities\obj\Debug\HomeManager.Utilities.pdb
